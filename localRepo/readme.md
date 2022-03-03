@@ -1,3 +1,3 @@
 Overview
 
-This is a readme file
+This is a project overview file
