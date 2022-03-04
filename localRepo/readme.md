@@ -1,2 +1,2 @@
 Project Overview file
-# Working on git basics
+# Working on git & GitHub basics
